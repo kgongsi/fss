@@ -1,2 +1,2 @@
 # fss
-a disclosure guide line offered by Korean FSS
+금융감독원의 기업공시서식 작성기준 (2024.04.12 기준)
